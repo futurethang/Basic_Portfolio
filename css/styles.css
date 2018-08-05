@@ -14,6 +14,12 @@ header, footer {
     border-bottom: 2px solid #ddd;
 }
 
+header {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
 .logo {
     background-color: #4aaaa5;
     padding: 5px 40px;
