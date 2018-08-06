@@ -1,5 +1,8 @@
 body {
+    background-image: url(funky-lines.png);
+    background-repeat: repeat;
     background-color: #eee;
+
 }
 
 .header_contents, .main_section, .content_box, footer {
@@ -47,6 +50,21 @@ header {
 }
 h1, h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-size: 2em;
+    font-weight: 600;
+    letter-spacing: .04em;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999;
+    font-size: 1.25em;
+    font-weight: 100;
+    margin: 10px 0px;
 }
 
 h5 {
@@ -105,7 +123,6 @@ footer {
     position: relative;
     width: 250px;
     height: 200px;
-    border: 1px dashed red;
     background: #4aaaa5;
     display: inline-block;
     margin: 0px 40px 40px 0px;
@@ -124,7 +141,7 @@ footer {
 
 .portfolio_caption {
     position: absolute;
-    top: 125px;
+    top: 135px;
     left: 0px;
     width: 100%;
     height: 50px;
@@ -135,4 +152,29 @@ footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5em;
     font-weight: 100;
+}
+
+/* CONTACT PAGE STYLES */
+
+.submit {
+    background: #4aaaa5;
+    height: 40px;
+    width: 120px;
+    color: #fff;
+    margin-top: 20px;
+    /* padding: 10px; */
+    border: none;
+    font-size: 1.25em;
+    font-weight: 100;
+}
+
+input {
+    width: 99%;
+    height: 3em;
+}
+
+textarea {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #cccccc;
 }
