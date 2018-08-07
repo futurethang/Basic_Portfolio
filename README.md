@@ -7,21 +7,21 @@ Items to finish:
 
     -- Picture
 
-    link to BG
+    ??? link to BG
 
-    set font to gray (google best shade)
+    -- set font to gray (google best shade)
 
-    thicker top border on footer
+    -- thicker top border on footer
 
-    gray <hr>
+    ??? gray <hr>
 
     -- slight shadow and round edge to content box
 
-    add portfolio pics
+    -- add portfolio pics
 
     -- slight drop shadow for port. pics
 
-    port. item names
+    -- port. item names
         i ching app
 
         overlooked art tour
