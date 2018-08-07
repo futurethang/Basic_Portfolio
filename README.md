@@ -5,7 +5,7 @@ Items to finish:
 
     About me text
 
-    Picture
+    -- Picture
 
     link to BG
 
@@ -15,11 +15,11 @@ Items to finish:
 
     gray <hr>
 
-    slight shadow and round edge to content box
+    -- slight shadow and round edge to content box
 
     add portfolio pics
 
-    slight drop shadow for port. pics
+    -- slight drop shadow for port. pics
 
     port. item names
         i ching app
@@ -32,7 +32,7 @@ Items to finish:
 
 Bonus:
 
-    hover styles
+    -- hover styles
 
     add 1 more color to theme
 
