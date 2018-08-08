@@ -43,7 +43,7 @@ header {
 .content_box {
     background: #fff;
     overflow: hidden;
-    margin: 40px 0px;
+    margin: 40px 0px 100px 0px;
     padding: 5px 40px 40px 40px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -215,12 +215,19 @@ footer {
 }
 
 input {
-    width: 99%;
-    height: 3em;
+    width: 870px;
+    height: 2em;
+    font-size: 1em;
+    color: #777;
 }
 
 textarea {
-    width: 100%;
+    width: 870px;
     height: 300px;
     border: 1px solid #cccccc;
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.em;
+    line-height: 1.5em;
+    color: #777;
 }

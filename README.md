@@ -4,6 +4,10 @@ Basic Portfolio website based on the requirements for the first UWBC assignment
 Items to finish:
 
     About me text
+    
+    text sizing and format in contact fields
+    
+    holder text within imput fields
 
     -- Picture
 
